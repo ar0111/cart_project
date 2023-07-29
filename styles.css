@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    /* overflow: hidden; */
+}
+
+.cart{
+    /* background-color: rgba(114, 109, 109, 0.247); */
+    border-radius: 10px;
+    height: auto;
+    overflow: hidden;
+}
+
+.cart-items{
+    width: 90%;
+    margin: 20px;
+    height: 30%;
+}
+
+.image-content{
+    float: left;
+}
+
+.image-content h5{
+    display: inline;
+    padding: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.price-text{
+    display: inline;
+}
+
+.input-area{
+    border: none;
+    background-color: rgba(128, 128, 128, 0.267);
+    border-radius: 10px;
+    width: 30%;
+    height: 40px;
+    text-align: center;
+}
+
+
+/* .center-item{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.images{
+    height: 150px;
+    margin: 50px;
+}
+
+.inputs{
+    display: inline-block;
+    align-items: center;
+    width:100px;
+    margin: 0;
+}
+
+.cart-items .price-text {
+    display: inline;
+    margin: 0;
+    align-items: center;
+}
+
+#iphone_13_units{
+    width: 70px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.336);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.footer-items{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.918);
+    border-radius: 10px;
+    display: flex;
+}
+
+.column{
+    height: 30%;
+} */
+
+
+
